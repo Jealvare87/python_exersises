@@ -1,2 +1,2 @@
-# python_exersises
+# Python Exersises
 Simple Python exersises for practise
